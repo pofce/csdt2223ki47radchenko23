@@ -1,4 +1,4 @@
-# csdt1923ki47vladyslav23
+# csdt1923ki47radchenko23
 Subject: CSDT
 
 Task 1 - Initiate GIT repository (BEF):
